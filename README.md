@@ -6,7 +6,7 @@ Link: https://github.com/muhammetgunduz23/kodluyoruzilkrepo.git
 Proje Github üzerinde oluşturuldu ve sonrasında clone'landı. Clone'lanan proje içerisinde README dosyası burada görüldüğü şekilde düzenlendi.
 # Contributing
 Kodluyoruz ekibine teşekkürler!
-#License 
+#License
 // The MIT License (MIT)
 
 // Copyright (c) YEAR NAME
